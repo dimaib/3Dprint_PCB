@@ -1,0 +1,162 @@
+36657954072942
+3d_print
+Conn_uSDcard
+
+
+0
+13
+9
+3d_print
+Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+3d_print
+D_DO-41_SOD81_P7.62mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+3d_print
+D_SOD-323_HandSoldering
+SOD-323
+SOD-323
+0
+2
+2
+3d_print
+GCT-MEM2055-00-190-01-A
+http://www.farnell.com/datasheets/1917242.pdf
+MicroSD card socket
+0
+13
+9
+3d_print
+L_10.4x10.4_H4.8
+Choke, SMD, 10.4x10.4mm 4.8mm height
+Choke SMD
+0
+2
+2
+3d_print
+MF-SM250_Fuse
+
+
+0
+2
+2
+3d_print
+MountingHole_3.2mm_M3_Pad_Via
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+9
+1
+3d_print
+PhoenixContact_MCV_1,5_2-G-3.5_1x02_P3.50mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/2-G-3.5; number of pins: 02; pin pitch: 3.50mm; Vertical || order number: 1843606 8A 160V
+phoenix_contact connector MCV_01x02_G_3.5mm
+0
+2
+2
+3d_print
+PhoenixContact_MCV_1,5_3-G-3.5_1x03_P3.50mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/3-G-3.5; number of pins: 03; pin pitch: 3.50mm; Vertical || order number: 1843619 8A 160V
+phoenix_contact connector MCV_01x03_G_3.5mm
+0
+3
+3
+3d_print
+PhoenixContact_MCV_1,5_4-G-3.5_1x04_P3.50mm_Vertical
+Generic Phoenix Contact connector footprint for: MCV_1,5/4-G-3.5; number of pins: 04; pin pitch: 3.50mm; Vertical || order number: 1843622 8A 160V
+phoenix_contact connector MCV_01x04_G_3.5mm
+0
+4
+4
+3d_print
+Rick
+
+
+0
+0
+0
+3d_print
+Rick_1
+
+
+0
+0
+0
+3d_print
+Rick_2
+
+
+0
+0
+0
+3d_print
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+solder jumper open
+0
+3
+3
+3d_print
+TMC2130_Module
+
+
+0
+16
+16
+3d_print
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+8
+3
+3d_print
+TOP3
+
+
+0
+3
+3
+3d_print
+USB_Micro-B_Molex-105017-0001
+http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
+Micro-USB SMD Typ-B
+0
+13
+6
+3d_print
+ZH_Conn_04x01
+
+
+0
+4
+4
+3d_print
+conn_power
+
+
+0
+2
+1
+3d_print
+small_thunder
+
+
+0
+0
+0
+3d_print
+w5500_module
+
+
+0
+12
+12
